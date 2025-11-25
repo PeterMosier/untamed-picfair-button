@@ -14,7 +14,7 @@ If the Wordpress post has a custom field named `picfair_url` containing the URL 
 
 If there is no custom field on the post, then "**[/] Shortcode**" `[picfair_btn]` does nothing (i.e. fails gracefully).
 
-## How To Upload this Custom Plugin to Wordpress
+## ⚙️ Installation: How To Upload this Custom Plugin to Wordpress
 
 Reminder: The plugin name and version are stored in the header of the .PHP file, so the file names below are merely suggestions to keep things tidy.
 
