@@ -1,6 +1,4 @@
-# untamed-picfair-button
-
-## Wordpress Custom Plugin
+# Untamed picfair button | Wordpress Custom Plugin | PHP
 
 ## Version 1.6
 
